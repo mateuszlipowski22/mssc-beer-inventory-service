@@ -15,10 +15,11 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package guru.sfg.brewery.model.events;
+package guru.sfg.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import guru.sfg.brewery.model.events.BeerOrderLineDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

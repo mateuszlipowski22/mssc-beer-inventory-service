@@ -1,6 +1,7 @@
 package guru.sfg.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import guru.sfg.brewery.model.BeerStyleEnum;
 import lombok.*;
 
 import javax.validation.constraints.*;
